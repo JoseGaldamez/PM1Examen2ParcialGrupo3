@@ -116,3 +116,14 @@ Invoke-RestMethod -Method Patch -Uri "$api/api/contactos/1" -ContentType 'applic
 | `ExamenP2_PM1_Grupo3.Application` | Casos de uso, interfaces de persistencia y almacenamiento, y DTO de respuesta. |
 | `ExamenP2_PM1_Grupo3.Domain` | Modelo `Contacto` y límites de sus datos. |
 | `ExamenP2_PM1_Grupo3.Infrastructure` | Repositorio SQL Server y almacenamiento en Cloudinary. |
+
+## Integrantes del Grupo #3 — Programación Móvil 1
+
+| **Nombre Completo** | **Número de Cuenta** |
+| --- | --- |
+| **Melvin Edgardo Peña Caballero** | 201230010100 |
+| **Christian Yahir Rodriguez Sanchez** | 202310030212 |
+| **Linda Guadalupe Nolasco Martínez** | 202110080018 |
+| **William Eduardo Banegas Cruz** | 201410010285 |
+| **José Oveniel Galdámez Ramos** | 201210011668 |
+| **Ricardo Andres Montes Jovel** | 201830010183 |
