@@ -44,12 +44,14 @@
           ]
         },
         "url": {
-          "raw": "https://localhost:7152/api/contactos",
+          "raw": "https://api-pm1-examen2parcial-grupo3-337965348211.europe-west1.run.app/api/contactos",
           "protocol": "https",
           "host": [
-            "localhost"
+            "api-pm1-examen2parcial-grupo3-337965348211",
+            "europe-west1",
+            "run",
+            "app"
           ],
-          "port": "7152",
           "path": [
             "api",
             "contactos"
@@ -86,12 +88,14 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "https://localhost:7152/api/contactos/1/archivo",
+          "raw": "https://api-pm1-examen2parcial-grupo3-337965348211.europe-west1.run.app/api/contactos/1/archivo",
           "protocol": "https",
           "host": [
-            "localhost"
+            "api-pm1-examen2parcial-grupo3-337965348211",
+            "europe-west1",
+            "run",
+            "app"
           ],
-          "port": "7152",
           "path": [
             "api",
             "contactos",
@@ -108,12 +112,14 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "https://localhost:7152/api/contactos?buscar=1",
+          "raw": "https://api-pm1-examen2parcial-grupo3-337965348211.europe-west1.run.app/api/contactos?buscar=1",
           "protocol": "https",
           "host": [
-            "localhost"
+            "api-pm1-examen2parcial-grupo3-337965348211",
+            "europe-west1",
+            "run",
+            "app"
           ],
-          "port": "7152",
           "path": [
             "api",
             "contactos"
@@ -143,12 +149,14 @@
           }
         },
         "url": {
-          "raw": "https://localhost:7152/api/contactos/1",
+          "raw": "https://api-pm1-examen2parcial-grupo3-337965348211.europe-west1.run.app/api/contactos/1",
           "protocol": "https",
           "host": [
-            "localhost"
+            "api-pm1-examen2parcial-grupo3-337965348211",
+            "europe-west1",
+            "run",
+            "app"
           ],
-          "port": "7152",
           "path": [
             "api",
             "contactos",
@@ -173,12 +181,14 @@
           }
         },
         "url": {
-          "raw": "https://localhost:7152/api/contactos/1",
+          "raw": "https://api-pm1-examen2parcial-grupo3-337965348211.europe-west1.run.app/api/contactos/1",
           "protocol": "https",
           "host": [
-            "localhost"
+            "api-pm1-examen2parcial-grupo3-337965348211",
+            "europe-west1",
+            "run",
+            "app"
           ],
-          "port": "7152",
           "path": [
             "api",
             "contactos",
