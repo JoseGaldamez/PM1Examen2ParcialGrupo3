@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ExamenP2_PM1_Grupo3.Application/ExamenP2_PM1_Grupo3.Application.csproj" />
+  <Project Path="ExamenP2_PM1_Grupo3.Domain/ExamenP2_PM1_Grupo3.Domain.csproj" />
+  <Project Path="ExamenP2_PM1_Grupo3.Infrastructure/ExamenP2_PM1_Grupo3.Infrastructure.csproj" />
+  <Project Path="ExamenP2_PM1_Grupo3/ExamenP2_PM1_Grupo3.csproj" />
+</Solution>

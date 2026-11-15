@@ -1,0 +1,6 @@
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+/ExamenP2_PM1_Grupo3/Properties/launchSettings.json

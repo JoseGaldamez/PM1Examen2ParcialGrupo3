@@ -1,0 +1,13 @@
+@ExamenP2_PM1_Grupo3_HostAddress = http://localhost:5164
+
+GET {{ExamenP2_PM1_Grupo3_HostAddress}}/api/contactos
+Accept: application/json
+
+###
+
+GET {{ExamenP2_PM1_Grupo3_HostAddress}}/api/contactos?buscar=Ana
+Accept: application/json
+
+###
+
+GET {{ExamenP2_PM1_Grupo3_HostAddress}}/api/contactos/1/archivo
